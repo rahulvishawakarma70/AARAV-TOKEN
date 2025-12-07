@@ -1,0 +1,4 @@
+# API Endpoints Found
+
+- https://prince-token-gen.onrender.com/get_token
+- https://prince-token-gen.onrender.com/verify_token
